@@ -1,5 +1,2 @@
-import HomeScreen from './screens/Homescreen';
-
-export default function Index() {
-  return <HomeScreen />;
-}
+import LoginScreen from './screens/Loginscreen';
+export default LoginScreen;
